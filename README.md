@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hitesh N P and I'm a student at JSS Academy of Technical Education, Bengaluru, Karnataka.</p>
+<p align="left">This is Hitesh N P, I'm a student at JSS Academy of Technical Education, Bengaluru, Karnataka.</p>
 
 ###
 
