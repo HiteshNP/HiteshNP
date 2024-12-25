@@ -8,18 +8,14 @@ My passion lies in leveraging cutting-edge technologies to solve real-world chal
 
 🌟 **Research-Oriented Innovator**  
 I have worked extensively on projects in **Natural Language Processing (NLP)**, **Speaker Diarization**, and **Machine Learning**, with publications in peer-reviewed journals and conferences such as the **ACL Anthology**.  
-My recent research focuses on **faux-hate detection in code-mixed text**, achieving state-of-the-art results using **multi-task learning approaches**.  
 
 💻 **Tech Enthusiast**  
-I thrive at the intersection of **AI and software development**, with hands-on experience in building impactful projects like:  
-- **Lucid AI**: An EdTech platform breaking language barriers and supporting multilingual learning.  
-- **Clever Coins**: A fintech solution simplifying personalized financial planning.  
+I thrive at the intersection of **AI and software development**
 
-🎯 **2025 Goals**  
+## 🎯 **2025 Goals**  
 - Continue advancing research in **multilingual NLP**, **AI ethics**, and **speech technologies**, aiming for impactful publications in leading journals.   
 - Develop and contribute to **open-source projects** focused on real-world applications of **AI in education**, **finance**, and **healthcare**.  
 - Expand expertise in **cross-lingual models**, **generative AI**, and **edge computing** to solve global challenges effectively.  
-- Begin a Master’s program to further specialize in **AI and Machine Learning** and **Natural Language Processing**, focusing on cutting-edge research and development. .  
 - Explore the intersection of **AI** and **sustainability**, working on projects that utilize AI for environmental impact and conservation.  
 
 🎓 **Future Aspirations**  
