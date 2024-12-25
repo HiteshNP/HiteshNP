@@ -1,35 +1,33 @@
-<h1 align="left">Hey there 👋</h1>
+# 👋 Hey there!  
 
-###
+This is **Hitesh N P**, a final-year student pursuing a Bachelor's degree in **Artificial Intelligence and Machine Learning** at **JSS Academy of Technical Education, Bangalore**.
 
-<p align="left">This is Hitesh N P, a final-year student pursuing a Bachelor's degree in Artificial Intelligence and Machine Learning at JSS Academy of Technical Education, Bangalore. My passion lies in leveraging cutting-edge technologies to solve real-world challenges through research, innovation, and collaboration</p>
+My passion lies in leveraging cutting-edge technologies to solve real-world challenges through **research**, **innovation**, and **collaboration**.  
 
-###
+## ✨ About Me  
 
-<h2 align="left">About me</h2>
+🌟 **Research-Oriented Innovator**  
+I have worked extensively on projects in **Natural Language Processing (NLP)**, **Speaker Diarization**, and **Machine Learning**, with publications in peer-reviewed journals and conferences such as the **ACL Anthology**.  
+My recent research focuses on **faux-hate detection in code-mixed text**, achieving state-of-the-art results using **multi-task learning approaches**.  
 
-###
+💻 **Tech Enthusiast**  
+I thrive at the intersection of **AI and software development**, with hands-on experience in building impactful projects like:  
+- **Lucid AI**: An EdTech platform breaking language barriers and supporting multilingual learning.  
+- **Clever Coins**: A fintech solution simplifying personalized financial planning.  
 
-<p align="left">🌟 Research-Oriented Innovator
-I have worked extensively on projects in Natural Language Processing (NLP), Speaker Diarization, and Machine Learning, with publications in peer-reviewed journals and conferences such as the ACL Anthology. My recent research focuses on faux-hate detection in code-mixed text, achieving state-of-the-art results using multi-task learning approaches.
+🎯 **2025 Goals**  
+- Continue advancing research in **multilingual NLP**, **AI ethics**, and **speech technologies**, aiming for impactful publications in leading journals.   
+- Develop and contribute to **open-source projects** focused on real-world applications of **AI in education**, **finance**, and **healthcare**.  
+- Expand expertise in **cross-lingual models**, **generative AI**, and **edge computing** to solve global challenges effectively.  
+- Begin a Master’s program to further specialize in **AI and Machine Learning** and **Natural Language Processing**, focusing on cutting-edge research and development. .  
+- Explore the intersection of **AI** and **sustainability**, working on projects that utilize AI for environmental impact and conservation.  
 
-💻 Tech Enthusiast
-I thrive at the intersection of AI and software development, with hands-on experience in building impactful projects like:
+🎓 **Future Aspirations**  
+I am excited to pursue advanced research opportunities, with aspirations for a **Master’s program specializing in AI and NLP applications**.  
 
-Lucid AI: An EdTech platform breaking language barriers and supporting multilingual learning.
-Clever Coins: A fintech solution simplifying personalized financial planning.
-🎯 2024 Goals
+## 🎲 Fun Fact  
 
-Publish additional papers in multilingual NLP and AI ethics.
-Contribute to open-source projects in machine learning and generative AI.
-🎓 Future Aspirations
-I'm excited to pursue advanced research opportunities, with aspirations for a Master’s program specializing in AI and NLP applications.
-
-🔗 Let's Connect
-
-LinkedIn: Hitesh N P
-🎲 Fun Fact
-An avid problem solver, I find immense joy in decoding cryptic puzzles, whether they’re in the form of challenging coding tasks or intricate riddles.</p>
+An avid problem solver, I find immense joy in decoding **cryptic puzzles**, whether they’re in the form of **challenging coding tasks** or intricate **riddles**.  
 
 ###
 
@@ -92,7 +90,7 @@ An avid problem solver, I find immense joy in decoding cryptic puzzles, whether 
 <div align="left">
   <a href="https://www.linkedin.com/in/hiteshnp/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-  </a>
+  </a> 
   <a href="https://twitter.com/Hitesh_np" target="_blank">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"/>
   </a>
