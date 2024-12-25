@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">This is Hitesh N P, I'm a student at JSS Academy of Technical Education, Bengaluru, Karnataka.</p>
+<p align="left">This is Hitesh N P, a final-year student pursuing a Bachelor's degree in Artificial Intelligence and Machine Learning at JSS Academy of Technical Education, Bangalore. My passion lies in leveraging cutting-edge technologies to solve real-world challenges through research, innovation, and collaboration</p>
 
 ###
 
@@ -10,7 +10,26 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Full stack development<br><br>🎯 2023 Goals: My current focus is on mastering full-stack development, encompassing back-end technologies.<br><br>🎲 Fun fact: An interesting tidbit about me is that I find solace in deciphering cryptic puzzles. Whether it's a challenging coding problem or a complex riddle, I'm known to spend hours unraveling the enigma until it's cracked.</p>
+<p align="left">🌟 Research-Oriented Innovator
+I have worked extensively on projects in Natural Language Processing (NLP), Speaker Diarization, and Machine Learning, with publications in peer-reviewed journals and conferences such as the ACL Anthology. My recent research focuses on faux-hate detection in code-mixed text, achieving state-of-the-art results using multi-task learning approaches.
+
+💻 Tech Enthusiast
+I thrive at the intersection of AI and software development, with hands-on experience in building impactful projects like:
+
+Lucid AI: An EdTech platform breaking language barriers and supporting multilingual learning.
+Clever Coins: A fintech solution simplifying personalized financial planning.
+🎯 2024 Goals
+
+Publish additional papers in multilingual NLP and AI ethics.
+Contribute to open-source projects in machine learning and generative AI.
+🎓 Future Aspirations
+I'm excited to pursue advanced research opportunities, with aspirations for a Master’s program specializing in AI and NLP applications.
+
+🔗 Let's Connect
+
+LinkedIn: Hitesh N P
+🎲 Fun Fact
+An avid problem solver, I find immense joy in decoding cryptic puzzles, whether they’re in the form of challenging coding tasks or intricate riddles.</p>
 
 ###
 
